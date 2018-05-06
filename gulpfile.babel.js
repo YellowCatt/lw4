@@ -18,7 +18,6 @@ var path = {
   html: 'build/',
   js: 'build/js/',
   css: 'build/css/',
-  audio: 'build/audio/',
 },
 src: {
   html: 'src/*.html',
